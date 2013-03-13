@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+
+echo "<pre>\n----- ----- DEBUG ----- -----\n";
+var_dump($1);
+echo "\n----- ----- GUBED ----- -----\n".__FILE__ . ":" . __LINE__."\n</pre>";
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>vdump</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

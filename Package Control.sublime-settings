@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Abacus",
+		"Browser Refresh",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSScomb",
+		"Csslisible",
+		"CSSTidy",
+		"FileDiffs",
+		"Format SQL",
+		"Git",
+		"HtmlTidy",
+		"Indent XML",
+		"IndentGuides",
+		"JsFormat",
+		"Package Control",
+		"PhpBeautifier",
+		"PhpTidy",
+		"Search WordPress Codex",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"Stupid Indent",
+		"Sublime-HTMLPrettify",
+		"sublime-jslint",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Soda",
+		"Toggle Css Format",
+		"Wordpress",
+		"Xdebug"
+	]
+}

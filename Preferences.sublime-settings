@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_slow_plugins": false,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"set_unsaved_view_name",
+		"IndentGuides",
+		"Git",
+		"clipboard",
+		"Vintage",
+		"sublime-jslint"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

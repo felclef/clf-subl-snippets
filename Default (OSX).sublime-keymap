@@ -1,0 +1,72 @@
+[
+//Browser Refresh
+{
+    "keys": ["command+shift+r"], "command": "browser_refresh", "args": {
+        "auto_save": true,
+        "delay": 0.3,
+        "activate_browser": false,
+        "browser_name" : "all"
+    }
+},
+// Sublime General
+{
+  "keys": ["super+shift+v"],
+  "command": "paste"
+}, {
+  "keys": ["super+v"],
+  "command": "paste_and_indent"
+}, {
+  "keys": ["super+right"],
+  "command": "move_to",
+  "args": {
+    "to": "hardeol"
+  }
+}, {
+  "keys": ["super+left"],
+  "command": "move_to",
+  "args": {
+    "to": "hardbol"
+  }
+}, {
+  "keys": ["ctrl+w"],
+  "command": "toggle_setting",
+  "args": {
+    "setting": "word_wrap"
+  }
+},
+// Xdebug
+{
+  "keys": ["f19"],
+  "command": "xdebug"
+}, {
+  "keys": ["f15"],
+  "command": "xdebug_continue"
+}, {
+  "keys": ["f13"],
+  "command": "xdebug_breakpoint"
+}, {
+  "keys": ["f14"],
+  "command": "xdebug_continue",
+  "args": {
+    "state": "run"
+  }
+}, {
+  "keys": ["f18"],
+  "command": "xdebug_continue",
+  "args": {
+    "state": "step_over"
+  }
+}, {
+  "keys": ["f16"],
+  "command": "xdebug_continue",
+  "args": {
+    "state": "step_into"
+  }
+}, {
+  "keys": ["f17"],
+  "command": "xdebug_continue",
+  "args": {
+    "state": "step_out"
+  }
+}
+]
